@@ -1,5 +1,5 @@
 # **The software utilizes machine learning to forecast the yearly carbon dioxide emissions of cellular base stations located worldwide.**
-I created an original Machine Learning software that accurately predicts annual CO2 emissions from base stations across the globe. With this software, you can easily determine the predicted CO2 emissions of each country's base stations year by year. The software automatically saves the decision tree as .dot format, and the data is entered meticulously for precise predictions.
+I created an original Machine Learning software that accurately predicts annual CO2 emissions from base stations across the globe. With this software, you can easily determine the predicted CO2 emissions of each country's base stations year by year. 
 
 The values you enter should be (respectively):
 
